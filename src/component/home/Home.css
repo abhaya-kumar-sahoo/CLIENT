@@ -1,0 +1,54 @@
+*:focus {
+  outline: 0 !important;
+}
+body{
+  background: linear-gradient(-120deg, rgba(255, 255, 255, 0.5)50%,rgba(0, 0, 0, 0.507)50%), url('./images/sigmund.jpg');
+height: 100vh;
+background-clip: content-box;
+background-attachment: fixed;
+background-size: cover;
+
+ 
+}
+.abs{
+  text-align: center;
+  align-items: center;
+}
+.image{
+  border-radius: 50%;
+  height: 8vw;
+  border: .8vw solid rgb(187, 177, 92);
+}
+h1{
+  color: white;
+}
+.heading{
+justify-content: space-evenly;
+display: flex;
+}
+button{
+  color: rgb(240, 252, 84);
+  background: rgba(255, 99, 71, 0);
+  border: none;
+  height: 3rem;
+  width: 8rem;
+  font-size: 20px;
+  font-weight: bolder;
+  border: 1px solid rgb(255, 255, 255);
+  border-radius: 70px;
+  outline: none;
+
+}
+button:hover{
+  background: yellowgreen;
+  color: white;
+  border: none;
+  outline: none;
+
+}
+button:focus {outline:0;}
+.center{
+  color: white;
+  margin-top: 10vh;
+
+}

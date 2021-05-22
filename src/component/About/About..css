@@ -1,0 +1,26 @@
+.emp-profile{
+  color: white;
+  background-color: rgba(11, 100, 96, 0.884);
+  margin-top: 1vw;
+  padding: 2vw;
+  border-radius: 1.2vw;
+  height: 40vw;
+}
+
+.profile-img{
+  height: 10vw;
+  margin-bottom: 10vw;
+}
+.profile-edit-btn{
+  width: fit-content;
+}
+.header{
+  background-color: rgba(20, 185, 149, 0.336);
+  padding-top: 10px;
+  border-radius: 1.2vw;
+  height: 15vw;
+  margin-top: 0px;
+}
+.header1{
+  padding-top: 3vw;
+}
